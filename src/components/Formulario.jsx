@@ -54,7 +54,7 @@ const Formulario = () => {
 
         <div className="mb-5">
           <label htmlFor="sintomas" className="block text-gray-700 uppercase font-bold">
-            Alta
+            Síntomas
           </label>
           <textarea
             id="sintomas"
