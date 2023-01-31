@@ -10,6 +10,8 @@ const ListadoPacientes = () => {
       </p>
 
       <Paciente />
+      <Paciente />
+      <Paciente />
     </div>
   );
 };
